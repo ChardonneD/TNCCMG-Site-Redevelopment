@@ -1,10 +1,26 @@
 :root {
+  /* Earthy palette */
+  --clr-primary: #2d6a4f;
+  --clr-primary-dark: #1b4332;
+  --clr-primary-light: #d8f3dc;
+  --clr-accent: #6b4f2a;
+  --clr-accent-light: #f5ead9;
+  --clr-accent-dark: #4a3118;
+  --clr-purple: #6b4e8a;
+  --clr-purple-light: #ede8f5;
+  --clr-surface: #fafcf8;
+  --clr-card: #f5faf2;
+  --clr-border: #dde8d5;
+  --clr-text: #1a2e22;
+  --clr-text-light: #486151;
+  --clr-muted: #7a9980;
+
   font-family:
     Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color: #183222;
-  background: #f8fbf6;
+  color: var(--clr-text);
+  background: var(--clr-surface);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -31,3 +47,4 @@ p,
 li {
   font-size: 1rem;
 }
+
