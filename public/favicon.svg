@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Leaf icon">
+  <rect width="64" height="64" rx="16" fill="#f3f8ee" />
+  <path
+    d="M47.87 16.73c-11.53 1.15-21.58 8.45-25.62 18.74-1.57 4.02-1.83 8.55-.72 12.67 7.89 1.72 15.77-2.46 19.78-9.29 2.41-4.11 3.65-8.82 5.08-13.39.88-2.82 1.62-5.69 1.48-8.73Z"
+    fill="#2d6a4f"
+  />
+  <path d="M20.48 48.42c6.45-12.18 14.86-20.62 25.24-25.3" fill="none" stroke="#92c36e" stroke-linecap="round" stroke-width="4" />
+</svg>
