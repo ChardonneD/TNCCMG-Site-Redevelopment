@@ -1,10 +1,14 @@
 :root {
-  font-family:
-    Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --pine-green: #264033;
+  --forest-green: #335c4d;
+  --lavender: #6c4f83;
+  --warm-cream: #f6efe2;
+  --earth-brown: #5b4635;
+  font-family: 'Lato', 'Segoe UI', Tahoma, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color: #183222;
-  background: #f8fbf6;
+  color: var(--earth-brown);
+  background: #faf6ec;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -21,6 +25,7 @@ html {
 
 body {
   margin: 0;
+  min-width: 320px;
 }
 
 a {
