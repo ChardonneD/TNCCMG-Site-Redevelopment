@@ -1,32 +1,32 @@
 const boardMembers = [
   {
-    name: 'Patricia Coleman',
+    name: 'Kathy Coggin',
     title: 'President',
     bio: 'Coordinates chapter initiatives and leads strategic planning for educational and service outreach.',
   },
   {
-    name: 'Derrick Martin',
+    name: 'Linda Foster',
     title: 'Vice President',
     bio: 'Supports program development and volunteer engagement across county projects and events.',
   },
   {
-    name: 'Angelia Russell',
+    name: 'Stephanie Walker',
     title: 'Secretary',
     bio: 'Maintains meeting records, chapter communications, and member updates.',
   },
   {
-    name: 'Sharon Lewis',
+    name: 'Kim Baldinger',
     title: 'Treasurer',
     bio: 'Oversees financial reporting, budgeting, and stewardship of chapter resources.',
   },
   {
-    name: 'Cynthia Brooks',
-    title: 'Community Projects Chair',
+    name: 'Judy Vick',
+    title: 'Member at Large',
     bio: 'Leads planning and execution for demonstration gardens and public beautification efforts.',
   },
   {
-    name: 'Kevin Turner',
-    title: 'Education Chair',
+    name: 'Nick Waynick',
+    title: 'Extension Agent Advisor',
     bio: 'Coordinates training sessions and extension-informed learning opportunities for members.',
   },
 ]
